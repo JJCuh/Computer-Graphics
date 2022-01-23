@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\ziban\source\repos\csci 168 hw 8\csci 168 hw 8\main.cpp(108): error C2065: 'N': undeclared identifier
+c:\users\ziban\source\repos\csci 168 hw 8\csci 168 hw 8\main.cpp(108): error C2065: 'pyrLocX': undeclared identifier
+c:\users\ziban\source\repos\csci 168 hw 8\csci 168 hw 8\main.cpp(108): error C2065: 'pyrLocY': undeclared identifier
+c:\users\ziban\source\repos\csci 168 hw 8\csci 168 hw 8\main.cpp(108): error C2065: 'pyrLocZ': undeclared identifier
+c:\users\ziban\source\repos\csci 168 hw 8\csci 168 hw 8\main.cpp(109): error C2065: 'N': undeclared identifier
+c:\users\ziban\source\repos\csci 168 hw 8\csci 168 hw 8\main.cpp(110): error C2065: 'N': undeclared identifier
+c:\users\ziban\source\repos\csci 168 hw 8\csci 168 hw 8\main.cpp(119): error C2065: 'N': undeclared identifier
+c:\users\ziban\source\repos\csci 168 hw 8\csci 168 hw 8\main.cpp(117): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'glm::mat4'
+  c:\users\ziban\source\repos\csci 168 hw 8\csci 168 hw 8\main.cpp(120): note: No constructor could take the source type, or constructor overload resolution was ambiguous
